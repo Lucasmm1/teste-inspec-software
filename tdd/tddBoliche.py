@@ -1,6 +1,6 @@
 def calculaPontuacao(jogadas):
     pontuacao = 0
-    rodada_atual = 0
+    rodada_atual = 0 
     jogadas = list(jogadas)
 
     for _ in range(1, 11):
